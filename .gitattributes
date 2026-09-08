@@ -1,0 +1,4 @@
+* text=auto
+
+local_fraud_numbers.json text eol=lf
+local_fraud_numbers.json.sig text eol=lf

@@ -1,0 +1,8 @@
+# Geheime sleutelbestanden mogen nooit naar GitHub
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.pem
+*.key
+*.pk8
