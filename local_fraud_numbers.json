@@ -1,12 +1,12 @@
 {
     "schemaVersion": 1,
-    "datasetVersion": 1,
+    "datasetVersion": 2,
     "records": [
         {
             "phoneNumber": "+32496490071",
-            "reason": "Nummer op ondertekende FraudeWacht-testlijst",
+            "reason": "Gecontroleerde updateproef datasetversie 2",
             "source": "FraudeWacht interne ondertekende test",
-            "lastCheckedDate": "2026-09-07"
+            "lastCheckedDate": "2026-09-09"
         }
     ]
 }
